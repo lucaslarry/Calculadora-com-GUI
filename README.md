@@ -4,7 +4,7 @@ A calculadora é um exercício na linguaguem python que utiliza o módulo de GUI
 
 Projeto Criado como exercício do curso na Udemy "Curso de Python 3 do Básico Ao Avançado" do professor Luiz Otávio Miranda.
 
-<img src="imagens/calc1.png" align="center" width="170">  <img src="imagens/calc2.png" align="center" width="170">  <img src="imagens/calc3.png" align="center" width="170">  <img src="imagens/calc4.png" align="center" width="170">  <img src="imagens/calc5.png" align="center" width="170">
+<img src="imagens/calc1.png" align="center" width="150">  <img src="imagens/calc2.png" align="center" width="150">  <img src="imagens/calc3.png" align="center" width="150">  <img src="imagens/calc4.png" align="center" width="150">  <img src="imagens/calc5.png" align="center" width="150">
 
 
 # Como executar o projeto
